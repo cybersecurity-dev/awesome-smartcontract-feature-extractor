@@ -1,4 +1,4 @@
-# Awesome [Smart Contract](https://en.wikipedia.org/wiki/Smart_contract) Feature Extractor [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome [Smart Contract](https://en.wikipedia.org/wiki/Smart_contract) [Feature](https://en.wikipedia.org/wiki/Feature_(machine_learning)) Extractor [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 - 
 - 
 - 
