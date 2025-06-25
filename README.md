@@ -1,9 +1,9 @@
 # Awesome [SC](https://en.wikipedia.org/wiki/Smart_contract) (_Smart Contract_) [Feature](https://en.wikipedia.org/wiki/Feature_(machine_learning)) Extractor [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-- 
-- 
-- 
-- 
-- 
+
+## 📖 Contents
+- [My Other Awesome Lists](#my-other-awesome-lists)
+- [Contributing](#contributing)
+- [Contributors](#contributors)
 
 ### My Other Awesome Lists
 
