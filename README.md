@@ -13,6 +13,9 @@
 - [Contributing](#contributing)
 - [Contributors](#contributors)
 
+## SC Opcodes Interactive Reference
+- [evm.codes](https://www.evm.codes/) - An Ethereum Virtual Machine Opcodes Interactive Reference
+##
 ### My Other Awesome Lists
 You can access the my other awesome lists [here](https://cyberthreatdefence.com/my_awesome_lists)
   
