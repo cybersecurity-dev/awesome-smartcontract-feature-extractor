@@ -13,14 +13,13 @@
 - [Contributing](#contributing)
 - [Contributors](#contributors)
 
-## Online Tools
-- [evm.codes - playground](https://www.evm.codes/playground) -  It is an interactive online tool for developers and enthusiasts to learn about and experiment with the Ethereum Virtual Machine (EVM).
-
- 
-## SC Opcodes Interactive Reference
-- [evm.codes](https://www.evm.codes/) - An Ethereum Virtual Machine Opcodes Interactive Reference
-
 ##
+### Online Tools
+You can access the online tools [here](https://github.com/cybersecurity-dev/awesome-smart-contract/tree/main?tab=readme-ov-file#online-tools)
+
+### SC Opcodes Interactive Reference
+You can access the SC opcodes interactive reference [here](https://github.com/cybersecurity-dev/awesome-smart-contract/tree/main?tab=readme-ov-file#sc-opcodes-interactive-reference)
+
 ### My Other Awesome Lists
 You can access the my other awesome lists [here](https://cyberthreatdefence.com/my_awesome_lists)
   
