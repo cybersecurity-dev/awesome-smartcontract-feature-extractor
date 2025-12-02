@@ -1,5 +1,9 @@
-# Awesome [SC](https://en.wikipedia.org/wiki/Smart_contract) (_[Smart Contract](https://youtube.com/playlist?list=PL9V4Zu3RroiVyfkzi0jlbyBE--AWZB7ki&si=GuPjKwlzeiUznH5b)_) [Feature](https://en.wikipedia.org/wiki/Feature_(machine_learning)) Extractor [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]() 
+<div align="center">
+
+# **`Awesome`** [SC](https://wikipedia.org/wiki/Smart_contract) (_Smart Contract_) [Feature](https://en.wikipedia.org/wiki/Feature_(machine_learning)) Extractor [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+</div>
+
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/playlist?list=PL9V4Zu3RroiVyfkzi0jlbyBE--AWZB7ki&si=GuPjKwlzeiUznH5b) 
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)]()
 
 <p align="center">
@@ -12,6 +16,9 @@
 </p>
 
 ## 📖 Contents
+- [Other Awesome Smart Contract](#other-awesome-smart-contract)
+- [Online Tools](#online-tools)
+- [SC Opcodes Interactive Reference](#sc-opcodes-interactive-reference)
 - [My Other Awesome Lists](#my-other-awesome-lists)
 - [Contributing](#contributing)
 - [Contributors](#contributors)
