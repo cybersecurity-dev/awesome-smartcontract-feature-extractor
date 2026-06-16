@@ -54,4 +54,7 @@ You can access the my other awesome lists [here](https://cyberthreatdefence.com/
 ### Contributors
 [Thanks goes to these contributors](https://github.com/cybersecurity-dev/awesome-smartcontract-datasets/graphs/contributors)!
 
-[🔼 Back to top](#awesome-smartcontract-feature-extractor)
+### License
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
+
+[🔼 Back to top](#awesome-sc-smart-contract-feature-extractor-)
